@@ -275,7 +275,7 @@ body{
   text-transform:uppercase;
 }
 
-.gold{background:linear-gradient(180deg,#fff7bf 0%,#ffe27a 18%,#f7c948 42%,#e8ac22 58%,#fff2a8 76%,#d49417 100%);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;color:#f7c948;text-shadow:0 1px 0 rgba(255,248,205,.40),0 0 10px rgba(255,220,110,.40),0 0 22px rgba(240,184,35,.28);font-weight:700;letter-spacing:.2px}
+.gold{color:#f2c94c;text-shadow:0 0 6px rgba(255,215,100,.35),0 0 12px rgba(255,196,60,.28),0 0 20px rgba(214,149,22,.22);font:inherit;letter-spacing:inherit}
 
 .cache-wrap{width:940px}
 .cache-wrap .status-card{margin:0 auto}
@@ -322,4 +322,3 @@ body{
   .g2all-msg,.cache-msg{font-size:18px}
 }
 
-.gold-star{display:inline-block;margin:0 .18em;background:linear-gradient(180deg,#fff8cb 0%,#ffe88c 20%,#f7c948 48%,#df9f16 100%);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;color:#f7c948;font-weight:700;font-size:.72em;line-height:1;vertical-align:middle;text-shadow:0 0 10px rgba(255,220,110,.42),0 0 18px rgba(240,184,35,.24)}
